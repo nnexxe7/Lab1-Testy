@@ -1,0 +1,14 @@
+C:\Users\megal\source\repos\Lab 1 Testy\Lab 1 Testy\obj\Debug\net6.0\Lab 1 Testy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megal\source\repos\Lab 1 Testy\Lab 1 Testy\obj\Debug\net6.0\Lab 1 Testy.AssemblyInfoInputs.cache
+C:\Users\megal\source\repos\Lab 1 Testy\Lab 1 Testy\obj\Debug\net6.0\Lab 1 Testy.AssemblyInfo.cs
+C:\Users\megal\source\repos\Lab 1 Testy\Lab 1 Testy\obj\Debug\net6.0\Lab 1 Testy.csproj.CoreCompileInputs.cache
+C:\Users\megal\source\repos\Lab 1 Testy\Lab 1 Testy\bin\Debug\net6.0\Lab 1 Testy.exe
+C:\Users\megal\source\repos\Lab 1 Testy\Lab 1 Testy\bin\Debug\net6.0\Lab 1 Testy.deps.json
+C:\Users\megal\source\repos\Lab 1 Testy\Lab 1 Testy\bin\Debug\net6.0\Lab 1 Testy.runtimeconfig.json
+C:\Users\megal\source\repos\Lab 1 Testy\Lab 1 Testy\bin\Debug\net6.0\Lab 1 Testy.dll
+C:\Users\megal\source\repos\Lab 1 Testy\Lab 1 Testy\bin\Debug\net6.0\Lab 1 Testy.pdb
+C:\Users\megal\source\repos\Lab 1 Testy\Lab 1 Testy\obj\Debug\net6.0\Lab 1 Testy.dll
+C:\Users\megal\source\repos\Lab 1 Testy\Lab 1 Testy\obj\Debug\net6.0\refint\Lab 1 Testy.dll
+C:\Users\megal\source\repos\Lab 1 Testy\Lab 1 Testy\obj\Debug\net6.0\Lab 1 Testy.pdb
+C:\Users\megal\source\repos\Lab 1 Testy\Lab 1 Testy\obj\Debug\net6.0\Lab 1 Testy.genruntimeconfig.cache
+C:\Users\megal\source\repos\Lab 1 Testy\Lab 1 Testy\obj\Debug\net6.0\ref\Lab 1 Testy.dll
